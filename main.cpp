@@ -142,6 +142,7 @@ void zadanie2()
     cout << endl;
 }
 
+//Program oblicza objetosc kuli (K), stozka (S), lub walca (W)
 void zadanie3()
 {
     bool truth = true;
